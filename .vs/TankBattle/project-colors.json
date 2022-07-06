@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1bf8be3-e532-4563-a9af-1976a03f8d26": {
+      "ProjectGuid": "e1bf8be3-e532-4563-a9af-1976a03f8d26",
+      "DisplayName": "TankBattle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

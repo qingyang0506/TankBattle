@@ -1,0 +1,11 @@
+C:\Users\15651\source\repos\TankBattle\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Users\15651\source\repos\TankBattle\TankBattle\bin\Debug\TankBattle.exe
+C:\Users\15651\source\repos\TankBattle\TankBattle\bin\Debug\TankBattle.pdb
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.AssemblyReference.cache
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.cache
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.CoreCompileInputs.cache
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.exe
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.pdb
+C:\Users\15651\source\repos\TankBattle\TankBattle\obj\Debug\TankBattle.Form1.resources
