@@ -2,7 +2,7 @@
 
 A simple and traditional game "Tank battle",which developed by C# and Winforms. 
 
-![tank battle](/Users/qyangli/TankBattle/TankBattle/tankBattle.png)
+![tank battle]("./TankBattle/tankBattle.png")
 
 
 
